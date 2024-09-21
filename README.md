@@ -29,3 +29,5 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 ## Author :black_nib:
 
 - **Daniel Osei Bonsu ** <[Daniel](https://github.com/daniloseibonsu@gmail.com)>
+- 
+- **LinkedIn** <[Daniel](https://www.linkedin.com/in/daniel-bonsu-8a81791b9/)>
